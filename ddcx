@@ -5,7 +5,7 @@
 			"studio": "sec",
 			"buildenv": "raspbian-jessie",
 			"builddeps": ["build-essential", "wget"],
-			"picture_url": "https://github.com/Kitware/CMake/releases",
+			"picture_url": "https://9575xx.net",
 			"buildcmd": [
 				"uname -a",
 				"cat /etc/os-release",
